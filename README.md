@@ -16,8 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=TsingPig&show_icons=true&theme=transparent)
-
-
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=TsingPig&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsingPig&layout=compact&theme=tokyonight)
