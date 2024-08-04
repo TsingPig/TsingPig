@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 朱正阳(TsingPig)，就读于南京师范大学。研究兴趣：Unity游戏程序设计与开发，虚拟现实，元宇宙，计算机图形学，强化学习。
+
 我的邮箱：tsingpig@163.com
+
 我的微信：tsingpig
 
 ![](https://github-readme-stats.vercel.app/api?username=TsingPig&show_icons=true&theme=transparent)
+
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=TsingPig&theme=dracula)
 
