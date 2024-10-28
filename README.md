@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-朱正阳(TsingPig)，就读于南京师范大学，目前已保研至中山大学攻读直博。
+朱正阳(TsingPig)，就读于南京师范大学，目前已保研至中山大学软件学院攻读直博。
 
-研究兴趣：**虚拟现实，Unity游戏程序设计与开发，元宇宙，计算机图形学，强化学习。**
+研究兴趣：**虚拟现实，软件可靠性，游戏设计与开发。**
 
 我的邮箱：tsingpig@163.com
 
