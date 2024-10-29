@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-朱正阳(TsingPig)，就读于南京师范大学，目前已保研至中山大学软件学院攻读直博。
+Zhu Zhengyang, studied at Nanjing Normal University, and has now been admitted to the School of Software, Sun Yat-sen University to study for a direct doctorate.
 
-研究兴趣：**虚拟现实，软件可靠性，游戏设计与开发。**
+Research interests: **Virtual reality, Software reliability, Game design and development.**
 
-我的邮箱：tsingpig@163.com
+Email: tsingpig@163.com
 
-我的微信：tsingpig
+WeChat: tsingpig
 
 
