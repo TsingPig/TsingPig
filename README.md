@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Zhu Zhengyang, studied at Nanjing Normal University, and has now been admitted to the School of Software, Sun Yat-sen University to study for a direct doctorate.
+Zhu Zhengyang, Studying a Ph.D. in Software Engineering at Sun Yat-sen University and Exchange Interviews at Hong Kong Baptist University and Pengcheng Laboratory.
 
 Research interests: **Virtual reality, Software reliability, Game design and development.**
 
