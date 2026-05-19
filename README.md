@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Zhu Zhengyang, Studying a Ph.D. in Software Engineering at Sun Yat-sen University and Exchange Interviews at Hong Kong Baptist University and Pengcheng Laboratory.
+I am Zhengyang Zhu (朱正阳), a first-year Ph.D. student in Software Engineering at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), supervised by Prof. [Zibin Zheng](https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en). I am currently a visiting student at Hong Kong Baptist University, advised by Dr. [Hong-Ning Dai](https://www.henrylab.net/), and I recently joined [InplusLab-Agent](https://github.com/InplusLab-Agent) at the School of Software Engineering, SYSU. I also conduct collaborative research at [Pengcheng Laboratory](https://www.pcl.ac.cn/). I am also a member of [HenryLab-XR](https://github.com/HenryLab-XR) and the founder of [RunminG-Lab](https://github.com/RunminG-Lab).
 
-Research interests: **Virtual reality, Software reliability, Game design and development.**
+**Research interests:** Extended Reality (XR), LLM for software engineering (LLM4SE), Embodied AI.
 
-Email: tsingpig@163.com
+**Contact:** [zhuzhy57@mail2.sysu.edu.cn](mailto:zhuzhy57@mail2.sysu.edu.cn) · [tsingpig@163.com](mailto:tsingpig@163.com)
 
 WeChat: tsingpig
 
